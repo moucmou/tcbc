@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-3g2p1a4xff655693 --n functions --r  --project /Users/smart/space/lucky-wheel

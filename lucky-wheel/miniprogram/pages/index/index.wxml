@@ -1,0 +1,25 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="lucky-wheel">
+    <view class="wheel-main">
+      <view class="wheel-pointer" bindtap="beginRotate" />
+      <view class="wheel-bg" style="{{rotateStyle}}">
+        <view class="prize-list">
+          <view
+            class="prize-item"
+            wx:for="{{prizeList}}"
+            wx:for-index="index"
+            wx:for-item="item"
+            wx:key="index"
+            style="{{item.style}}"
+          >
+            <view class="prize-pic">
+              <image class="price-img" src="{{item.icon}}" />
+            </view>
+            <view class="prize-type">{{item.name}}</view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
