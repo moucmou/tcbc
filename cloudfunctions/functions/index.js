@@ -1,9 +1,9 @@
-const getOpenId = require('./getOpenId/index')
-const getMiniProgramCode = require('./getMiniProgramCode/index')
-const createCollection = require('./createCollection/index')
-const selectRecord = require('./selectRecord/index')
-const updateRecord = require('./updateRecord/index')
-const sumRecord = require('./sumRecord/index')
+const getOpenId = require('./getOpenId')
+const getMiniProgramCode = require('./getMiniProgramCode')
+const createCollection = require('./createCollection')
+const selectRecord = require('./selectRecord')
+const updateRecord = require('./updateRecord')
+const sumRecord = require('./sumRecord')
 
 
 // 云函数入口函数
