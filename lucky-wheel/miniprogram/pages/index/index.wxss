@@ -12,7 +12,7 @@ page {
 }
 .lucky-wheel {
   width: 100%;
-  background: rgb(252, 207, 133) url("cloud://cloud1-3g2p1a4xff655693.636c-cloud1-3g2p1a4xff655693-1306058785/color_pillar.png") no-repeat
+  background: rgb(252, 207, 133) url("https://636c-cloud1-3g2p1a4xff655693-1306058785.tcb.qcloud.la/color_pillar.png?sign=de76f017b29e1c4ceea58a200ff1b2fb&t=1622166663") no-repeat
     center bottom;
   background-size: 100%;
   padding-top: 20px;
@@ -20,7 +20,7 @@ page {
 .lucky-title {
   width: 100%;
   height: 8.125rem;
-  background: url("cloud://cloud1-3g2p1a4xff655693.636c-cloud1-3g2p1a4xff655693-1306058785/lucky_title.png") no-repeat center top;
+  background: url("https://636c-cloud1-3g2p1a4xff655693-1306058785.tcb.qcloud.la/lucky_title.png?sign=9917dd1326d61453052148676e8f4599&t=1622166686") no-repeat center top;
   background-size: 100%;
 }
 .wheel-main {
@@ -36,7 +36,7 @@ page {
   z-index: 1;
   width: 100%;
   height: 100%;
-  background: url("cloud://cloud1-3g2p1a4xff655693.636c-cloud1-3g2p1a4xff655693-1306058785/draw_wheel.pngg") no-repeat center top;
+  background: url("https://636c-cloud1-3g2p1a4xff655693-1306058785.tcb.qcloud.la/draw_wheel.png?sign=956a66c6d53b10ea9a6783d53e9bc8fa&t=1622166749") no-repeat center top;
   background-size: 100%;
   color: #fff;
 }
